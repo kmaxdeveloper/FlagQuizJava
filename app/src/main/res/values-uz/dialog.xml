@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_asian_text"> Osiyo qitasi tarkibiga kiruvchi davlatlarni bayroqlarini toping ! Viktorina 20 ball jamlangucha davom etadi !</string>
+    <string name="dialog_europa_text"> Yevropa qitasi tarkibiga kiruvchi davlatlar bayroqlarini toping ! Viktorina 20 ball jamlanguncha davom etadi !</string>
+    <string name="dialog_africa_text"> Afrika qitasi tarkibiga kiruvchi davlatlar bayroqlarini toping ! Viktorina 20 ball jamlanguncha davom etadi !</string>
+    <string name="dialog_namerica_text"> Shimoliy Amerika qitasi tarkibiga kiruvchi davlatlar bayroqlarini toping ! Viktorina 20 ball jamlanguncha davom etadi !</string>
+    <string name="dialog_samerica_text"> Janubiy Amerika qitasi tarkibiga kiruvchi davlatlar bayroqlarini toping ! Viktorina 20 ball jamlanguncha davom etadi !</string>
+    <string name="dialog_oceania_text">  Okeaniya mintaqasi tarkibiga kiruvchi davlatlar bayroqlarini toping ! Viktorina 20 ball jamlanguncha davom etadi !</string>
+    <string name="dialogEnd_asian_text">"Tabriklaymiz ! Siz keyingi bosqichga o'tdingiz ! "</string>
+</resources>

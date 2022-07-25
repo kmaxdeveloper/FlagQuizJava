@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // Level nomlari - Start //
+    <string name="level">Level : </string>
+    <string name="level_asian">Азиатские флаги</string>
+    <string name="level_europa">Флаги Европы</string>
+    <string name="level_africa">Флаги Африки</string>
+    <string name="level_oceania">Флаги Океании</string>
+    <string name="level_namerica">Флаги Северной Америки</string>
+    <string name="level_samerica">Флаги Южной Америки</string>
+    <string name="level_30">30 уровней</string>
+    // Level nomlari - End //
+
+    // Bosqichlar - Start //
+    <string name="block_europa">Play Asian to unlock</string>
+    <string name="block_africa">Play Europa to unlock</string>
+    <string name="block_namerica">Play Africa to unlock</string>
+    <string name="block_samerica">Play North America to unlock</string>
+    <string name="block_oceania">Play South America to unlock</string>
+    <string name="block_30Levels">Play Oceania to unlock</string>
+    // Bosqich - End //
+
+    // Reklama kodi - Start //
+    <string name="app_id">ca-app-pub-4664801446868642~3478351092</string> // App ID
+    <string name="reklama_id">ca-app-pub-4664801446868642/7374004703</string> // Reklama ID
+    // Reklama kodi - End //
+</resources>

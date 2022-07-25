@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">"Flag Quiz:Bayroqlar O'yini"</string>
+    <string name="start">Boshlash</string>
+    <string name="back">Ortga</string>
+    <string name="con_button">Davom etish</string>
+    <string name="continentAsia">Asia</string>
+    <string name="continentEuropa">Europa</string>
+    <string name="continentAfrica">Africa</string>
+    <string name="continentNamerica">North America</string>
+    <string name="continentSamerica">South America</string>
+    <string name="continentOceania">Oceania</string>
+    <string name="continentOther">Boshqalar</string>
+    <string name="continentAbout">30 Levels</string>
+</resources>

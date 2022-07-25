@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // Level nomlari - Start //
+    <string name="level">Bosqich : </string>
+    <string name="level_asian">Osiyo </string>
+    <string name="level_europa">Yevropa </string>
+    <string name="level_africa">Afrika </string>
+    <string name="level_oceania">Okeaniya </string>
+    <string name="level_namerica">Sh.Amerika </string>
+    <string name="level_samerica">J.Amerika </string>
+    <string name="level_30">30 Bosqich</string>
+    // Level nomlari - End //
+
+    // Bosqichlar - Start //
+    <string name="block_europa">Play to unlock Osiyo</string>
+    <string name="block_africa">Play to unlock Yevropa</string>
+    <string name="block_namerica">Play to unlock Afrika</string>
+    <string name="block_samerica">Play to unlock Sh.Amerika</string>
+    <string name="block_oceania">Play to unlock J.Amerika</string>
+    <string name="block_30Levels">Play to unlock Okeaniya</string>
+    // Bosqich - End //
+
+    // Reklama kodi - Start //
+    <string name="app_id">ca-app-pub-4664801446868642~3478351092</string> // App ID
+    <string name="reklama_id">ca-app-pub-4664801446868642/7374004703</string> // Reklama ID
+    // Reklama kodi - End //
+</resources>
